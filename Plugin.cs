@@ -31,6 +31,7 @@ namespace NOCounterMeasureKeybinds
                 return;
             }
 
+            //Hopefully there will be a dynamic solution for this asp.
             if (flareHotkey.Value.IsPressed())
             {
                 counterMeasureIndex = 0;
